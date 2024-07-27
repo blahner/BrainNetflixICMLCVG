@@ -1,2 +1,1 @@
-# brain2video_viz_website
-Visualization website for the brain2video paper
+# Webpage for "A Systematic Comparison of fMRI-to-video Reconstruction Techniques" (ICML 2024 CVG Workshop)
